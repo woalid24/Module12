@@ -7,7 +7,7 @@ const AboutPage = async () => {
   return (
     <div>
       
-      <div className="text-center text-3xl p-5 m-5 bg-green-400">
+      <div className="text-center text-3xl p-5 m-5">
       <h1>This is About page with 2 section + header & footer section</h1>
         </div>
       <Hero />
